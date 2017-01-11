@@ -1,3 +1,2 @@
 print ("Hello world")
 print ("Hello everybodye")
-print ("Hello you")
